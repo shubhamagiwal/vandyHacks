@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/shubhamagiwal/vandyHacks/issues"
   },
-  "homepage": "https://github.com/shubhamagiwal/vandyHacks#readme"
+  "homepage": "https://github.com/shubhamagiwal/vandyHacks#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "http": "0.0.0"
+  }
 }
