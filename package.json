@@ -1,0 +1,19 @@
+{
+  "name": "vandyhacks",
+  "version": "1.0.0",
+  "description": "Vandy Hacks AWS Lambda code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamagiwal/vandyHacks.git"
+  },
+  "author": "Shubham Agiwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamagiwal/vandyHacks/issues"
+  },
+  "homepage": "https://github.com/shubhamagiwal/vandyHacks#readme"
+}
