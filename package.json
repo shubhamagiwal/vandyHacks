@@ -18,6 +18,7 @@
   "homepage": "https://github.com/shubhamagiwal/vandyHacks#readme",
   "dependencies": {
     "async": "^2.1.2",
-    "http": "0.0.0"
+    "http": "0.0.0",
+    "lodash": "^4.16.6"
   }
 }
